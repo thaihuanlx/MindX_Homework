@@ -1,0 +1,22 @@
+:root{
+    --text-color: #6a8d8f;
+}
+body{
+    background-color:#dfeef0;
+}
+
+.page-title, .user-name{
+    color: var(--text-color);
+}
+.dash-line{
+    border: 2px dashed black;
+    width: 50%;
+    margin-top: 20px;
+}
+.user-avatar{
+    border-radius: 100%;
+
+}
+.small-title{
+    color: var(--text-color);
+}
